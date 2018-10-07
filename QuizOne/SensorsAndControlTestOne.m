@@ -29,7 +29,7 @@ z = 60;
 %change to focal length found after calibrating
 fx = 882.70996;
 fy = 881.74741;
-%change to focal length found after calibrating
+%change to Priniple point found after calibrating
 px = 513.92862;
 py = 424.06439;
 
