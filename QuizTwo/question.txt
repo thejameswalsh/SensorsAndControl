@@ -1,0 +1,11 @@
+question two was a linear time system with 
+x0 = x0
+a = [1,1;2,1]
+or
+1	1
+2	1
+
+b = [0;1]
+or
+0
+1
