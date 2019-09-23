@@ -1,0 +1,1 @@
+youll get about 40+ photos of checker board which you will have to convert from a png to jpg then calibrate them with the calib tool from tutorial tool. then this will give you an out the same to part one in the report, use the second set of numebers to input into the second section of the matlab code and run the section to get the last marks 
